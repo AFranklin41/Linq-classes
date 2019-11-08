@@ -1,0 +1,11 @@
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\bin\Debug\netcoreapp3.0\linqChapter.exe
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\bin\Debug\netcoreapp3.0\linqChapter.deps.json
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\bin\Debug\netcoreapp3.0\linqChapter.runtimeconfig.json
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\bin\Debug\netcoreapp3.0\linqChapter.runtimeconfig.dev.json
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\bin\Debug\netcoreapp3.0\linqChapter.dll
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\bin\Debug\netcoreapp3.0\linqChapter.pdb
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\obj\Debug\netcoreapp3.0\linqChapter.csprojAssemblyReference.cache
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\obj\Debug\netcoreapp3.0\linqChapter.AssemblyInfoInputs.cache
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\obj\Debug\netcoreapp3.0\linqChapter.AssemblyInfo.cs
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\obj\Debug\netcoreapp3.0\linqChapter.dll
+C:\Users\newforce42\workspace\csharp\exercises\Linq\linqChapter\obj\Debug\netcoreapp3.0\linqChapter.pdb
